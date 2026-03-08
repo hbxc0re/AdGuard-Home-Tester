@@ -19,7 +19,7 @@ DNS_QUERY_TYPE_CNAME = 5
 QUERY_TYPES = [DNS_QUERY_TYPE_A, DNS_QUERY_TYPE_AAAA]
 
 # AdGuard Home default DNS server (you can change this)
-ADGUARD_DNS = "192.168.0.24"  # or "your-adguard-home-ip"
+ADGUARD_DNS = "127.0.0.1"  # or "your-adguard-home-ip"
 ADGUARD_PORT = 53
 
 # Configurable
